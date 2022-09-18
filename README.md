@@ -3,7 +3,7 @@
 <div style="text-align: center;">
 <b>A tweak that you can injected to iPAs for checking FPS (still not optimize for landscape and portrait). The image below show the FPS (yellow text 79.9)</b><br><br>
 
-<img src="https://github.com/34306/JailedFPS/blob/main/Preview.PNG">
+<img src="https://raw.githubusercontent.com/34306/JailedFPS/main/Preview.PNG">
 </div>
 
 ___
